@@ -4,7 +4,9 @@ Redesign of qb-menu
 
 SEVEN DEVELOPMENT : https://discord.gg/MkSWwQZdY2
 
-PREVIEW :
+TEBEX : https://sevendevlopment.tebex.io/category/2256581
+
+PREVIEW : https://youtu.be/5ND7gaSJr7E
 
 CLEAN UI
 
